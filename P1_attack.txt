@@ -1,0 +1,3 @@
+/attack {target_prompt}
+
+{target_prompt} = full system prompt of the chatbot under test.

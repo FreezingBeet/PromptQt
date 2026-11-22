@@ -1,0 +1,3 @@
+/harden
+
+Uses {target_prompt} and the FAIL rows from P2; re-runs /test on the hardened prompt.

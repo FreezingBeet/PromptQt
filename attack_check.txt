@@ -1,0 +1,2 @@
+Check this chatbot prompt for security problems and tell me how to fix them:
+{target_prompt}
