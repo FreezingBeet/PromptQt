@@ -1,0 +1,3 @@
+- ARCHITECTURE.md — how PromptQT works (components, workflow, judging, scoring, deployment)
+- ROADMAP.md — milestones and what is left
+- Put milestone PDFs and diagrams here.
