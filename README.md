@@ -67,8 +67,11 @@ See **[docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)** for how it works and **[doc
 ## Team
 | Member | Enrollment | Main task |
 |---|---|---|
-| Kavish Gupta | _add_ | _add_ |
-| _add_ | _add_ | _add_ |
+| Kavish Gupta | S24CSEU0006 | _add_ |
+| Vaibhav Budhia | S24CSEU0156 | _add_ |
+| Rishi Pathak | S24CSEU1426 | _add_ |
+| Aryan Jaiswal | S24CSEU1410 | _add_ |
+| Ravi Rajput | S24CSEU1406 | _add_ |
 
 ## Safety note
 Attacks stay at the level of rule-breaking and leaking. PromptQT never asks the target for genuinely harmful content.
